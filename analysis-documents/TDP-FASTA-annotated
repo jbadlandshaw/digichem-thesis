@@ -1,7 +1,5 @@
->tr|A0A0A0N0L3|A0A0A0N0L3_HUMAN TAR DNA-binding protein 43 OS=Homo sapiens OX=9606 GN=TDP43 PE=2 SV=1
-MSEYIRVTED ENDEPIEIPS EDDGTVLLST VTAQFPGACG LRYRNPVSQC MRGVRLVEGI 
-LHAPDAGWGN LVYVVNYPKD NKRKMDETDA SSAVKVKRAV QKTSDLIVLG LPWKTTEQDL 
-KEYFSTFGEV LMVQVKKDLK TGHSKGFGFV RFTEYETQVK VMSQRHMIDG RWCDCKLPNS 
-KQSQDEPLRS RKVFVGRCTE DMTEDELREF FSQYGDVMDV FIPKPFRAFA FVTFADDQIA 
-QSLCGEDLII KGISVHISNA EPKHNSNRQL ERSGRFGGNP GGFGNQGGFG NSRTSQAHRV ITKTKATCRG SQTRPSVLEI TLIVALILVQ QLVGDQHPMQ GRAVVLMEAL AQAWILSLLA 
-GECRQWGCGW LV
+## Analysis Documents
+
+These documents were used throughout the project for additional insights and investigation. \
+TDP-43-FASTA-annotated is a document containing a brief summary of how the target epitope was identified using a comination of literature and computational investigation. \
+aa263-269 BLAST_HITS is a csv file generated to see if the target epitope was found elsewhere in the human proteome, potentially interfering with speificity from a target-end.

@@ -7,4 +7,4 @@ output_analysis.csv is the output from the TransformerBeta model, of which the t
 model_training_data.csv is the formatted training data with decoys used to train the models. \
 PROMISCUITY_SCORE.ipynb is the notebook file containing instructions on how to train, test and evaluate the models performance.
 
-_Note: 'train_data.npy' is the raw dataset from which the curated dataset for the models was created, and is too large to be uploaded to GitHub. This file can be sourced from https://huggingface.co/hz3519/TransformerBeta_models/tree/main/model_M_retrain_
+_Note: when creating the training data, it calls for'train_data.npy', the raw dataset from which the curated dataset for the models was created, which is too large to be uploaded to GitHub. This file can be sourced from https://huggingface.co/hz3519/TransformerBeta_models/tree/main/model_M_retrain_
